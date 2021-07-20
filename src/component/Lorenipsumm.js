@@ -1,11 +1,11 @@
 import React from "react";
 
-
-const Lorenipsumm = () => {
-    
+function Lorenipsumm() {
   return (
-      <div>Hello</div>
-      
-      );
-  }  
+    <div>
+      <strong>hello</strong>
+    </div>
+  );
+}
+
 export default Lorenipsumm;
